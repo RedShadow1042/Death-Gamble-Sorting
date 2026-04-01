@@ -1,0 +1,13 @@
+{
+  "name": "deathgamblesort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DeathGambleSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RedShadow1042",
+  "license": "ISC",
+  "type": "commonjs"
+}
